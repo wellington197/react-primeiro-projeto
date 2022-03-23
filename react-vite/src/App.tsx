@@ -1,4 +1,8 @@
-import {Photo} from '../components/Photo'
+import {Photo} from './components/Photo';
+import styled from 'styled-components';
+
+const Container=styled.div` `;
+}
 
 const App = () => {
   return (
